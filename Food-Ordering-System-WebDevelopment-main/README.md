@@ -25,7 +25,7 @@ Welcome to the **Food Ordering System**, a web application built using modern fr
 ## 🚀 How to Run
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Yuvansandhar/fast-food-restaurant-website.git
+   git clone https://github.com/YuvansandharR/Foodie-WebDevelopment/tree/main/Food-Ordering-System-WebDevelopment-main
    ```
 2. Navigate to the project folder:
    ```bash
@@ -48,6 +48,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 👨‍💻 About the Developer
-This project was developed by ** Yuvansandhar **, a passionate web developer skilled in front-end technologies and full-stack development.
+This project was developed by ** YuvansandharR **, a passionate web developer skilled in front-end technologies and full-stack development.
 
 Feel free to explore, contribute, or reach out with feedback!
